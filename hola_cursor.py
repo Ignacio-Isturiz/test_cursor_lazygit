@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 def main():
-    print("¡Hola desde Cursor! Estoy probando lazygit")
+    print("¡Hola a todos! Primer cambio en lazygit")
     print("Este es un archivo de prueba para verificar el funcionamiento de lazygit")
 
 if __name__ == "__main__":
